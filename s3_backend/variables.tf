@@ -1,8 +1,12 @@
+
+variable "region" {
+  
+}
 variable "bucket_name" {
   
 }
 
-variable "acl" {
+variable "bucket_acl" {
   
 }
 
